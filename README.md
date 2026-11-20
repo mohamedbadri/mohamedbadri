@@ -1,6 +1,6 @@
 ### Hi, I'm Mohamed Badri
 
-M.S. Computer Science (AI) at **Georgia Tech** · B.S. Computer Science + Applied Mathematics at **UC Santa Cruz**
+M.S. Computer Science (AI) at **Georgia Tech** · B.S. Computer Science + Applied Mathematics at **UC Santa Cruz** · [mohamedbadriportfolio.com](https://mohamedbadriportfolio.com)
 
 I build software end to end, from math-heavy research code to production apps that real users depend on. Most of my work sits where machine learning, data and engineering meet: trading research systems, LLM-powered tools, and full-stack products for clients.
 
@@ -14,4 +14,4 @@ I build software end to end, from math-heavy research code to production apps th
 
 **Tools:** Python · C++ · C · SQL · TypeScript · React · PyTorch · NumPy · Docker · Linux · AWS
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamedsbadri/) · mohamed.badri0987@gmail.com
+**Portfolio:** [mohamedbadriportfolio.com](https://mohamedbadriportfolio.com) · **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamedsbadri/) · mohamed.badri0987@gmail.com
